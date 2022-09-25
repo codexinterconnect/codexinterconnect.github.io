@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "acetone";
+  src: url('ACETONE.woff') format('woff');
+}
+
+.jumbotron h1 {
+  font-family: 'Play', sans-serif;
+}
+
+.jumbotron p {
+  font-family: 'Play', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #facccc;
+}
+
+#about p {}
+
+
+#gallery {
+  background-color: #facccc;
+}
+
+section {
+  padding-top: 6rem;
+}
